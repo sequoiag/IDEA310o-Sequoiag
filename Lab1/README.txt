@@ -1,4 +1,4 @@
-Youtube link:
+Youtube link: https://youtu.be/etf34uhOzFk
 Github Link: https://github.com/sequoiag/IDEA310o-Sequoiag
 Creator Kit: First Person Shooter Tutorial
 
