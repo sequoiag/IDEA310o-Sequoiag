@@ -4,7 +4,7 @@ Whats been done:
   My main menu UI has been completed with a working play button! I also have an animation for my settings panel.
 The player can move with appropriate camera movement in the first level. After the second level the game goes back to 
 the main menu. I implemented an enemy UI, which moves around randomly unless the player is in its range. There are moving
-living objects in my second level that move back and forth
+living objects in my second level that move back and forth. I also added audio to all the scenes!
 
 What needs to be done:
   I need to complete the first and second level, I am not satisfied with the amount of objects in the scene. I also want to make the evil 
